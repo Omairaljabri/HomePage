@@ -1,0 +1,34 @@
+#big_wrapper {
+	width: 250px;
+	border: solid 1px black;
+	padding: 15px;
+	margin-top: 30px;
+	margin: 30px
+	margin-left: 30px
+	 
+	color: white;
+
+	font-family: tahoma;
+	font-style: italic;
+}
+
+#big_wrapper0{
+
+	padding-top: 30px;
+	padding-bottom:30px;
+	font-family: tahoma;
+	font-style: italic;
+}
+
+#big_wrapper1{
+
+	padding-top: 10px;
+	font-family: tahoma;
+	font-style: italic;
+}
+#nheader{
+	background-image: url('images/github_top.jpg');
+	padding: 15px;
+	height: 15px;
+
+}
